@@ -1,4 +1,3 @@
-com.latinotele4kplayer.BoubkerAsDev
 {
   "ADS": {
 
